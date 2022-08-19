@@ -1,6 +1,6 @@
 # Swapr fee receiver hack
 
-At block xxx on Gnosis Chain, attacker
+At block `23729496` on Gnosis Chain, attacker
 `0x740d618e92484b6f142e49b3644b26cc370232be` deployed a contract and started
 draining the Swapr fee receiver of all its most valuable LP tokens (Swapr's
 protocol fee). After some analysis and determining what was going on, this repo
